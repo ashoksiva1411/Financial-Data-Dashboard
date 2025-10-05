@@ -1,0 +1,20 @@
+# Financial Data Dashboard
+
+This project analyzes financial data to track revenue, expenses, GST, and taxes using Excel and Power BI.
+
+## Tools Used
+- Power BI
+- Excel
+
+## Key Insights
+- Monthly revenue trends
+- Expense analysis
+- Tax and GST calculations
+- Automated dashboard visuals
+
+## Dashboard Preview
+(Screenshot can be added here)
+
+## How to Use
+1. Open the Excel files to explore raw data and calculations
+2. Open the Power BI (.pbix) file to interact with dashboards
